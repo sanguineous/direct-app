@@ -69,6 +69,10 @@
       <value>46</value>
       <description>PPT (for presentations) created with PowerPoint or similar</description>
     </fileFormat>
+	<fileFormat>
+      <value>47</value>
+      <description>Sketch files created in Sketch App</description>
+    </fileFormat>
   </contestType>
   <contestType id="18">
 	<fileFormat>
@@ -78,6 +82,10 @@
     <fileFormat>
       <value>45</value>
       <description>RP file created with Axure</description>
+    </fileFormat>
+	<fileFormat>
+      <value>47</value>
+      <description>Sketch files created in Sketch App</description>
     </fileFormat>
   </contestType>
   <contestType id="34">
@@ -147,6 +155,10 @@
       <value>46</value>
       <description>PPT (for presentations) created with PowerPoint or similar</description>
     </fileFormat>
+	<fileFormat>
+      <value>47</value>
+      <description>Sketch files created in Sketch App</description>
+    </fileFormat>
   </contestType>
   <contestType id="30">
 	<fileFormat>
@@ -168,6 +180,10 @@
     <fileFormat>
       <value>37</value>
       <description>Vector EPS files created in Adobe Illustrator or similar</description>
+    </fileFormat>
+	<fileFormat>
+      <value>47</value>
+      <description>Sketch files created in Sketch App</description>
     </fileFormat>
   </contestType>
   <contestType id="31">
@@ -213,6 +229,10 @@
       <value>37</value>
       <description>Vector EPS files created in Adobe Illustrator or similar</description>
     </fileFormat>
+	<fileFormat>
+      <value>47</value>
+      <description>Sketch files created in Sketch App</description>
+    </fileFormat>
   </contestType>
   <contestType id="32">
     <fileFormat>
@@ -234,6 +254,10 @@
     <fileFormat>
       <value>37</value>
       <description>Vector EPS files created in Adobe Illustrator or similar</description>
+    </fileFormat>
+	<fileFormat>
+      <value>47</value>
+      <description>Sketch files created in Sketch App</description>
     </fileFormat>
   </contestType>
     <contestType id="40">
@@ -284,6 +308,10 @@
         <fileFormat>
             <value>46</value>
             <description>PPT (for presentations) created with PowerPoint or similar</description>
+        </fileFormat>
+		<fileFormat>
+            <value>47</value>
+            <description>Sketch files created in Sketch App</description>
         </fileFormat>
     </contestType>
 </contestTypes>
